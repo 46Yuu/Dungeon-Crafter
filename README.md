@@ -11,9 +11,9 @@ Jeu contre la montre, avec pour but de récupérer des ingrédients dans le donj
 
 # Auteurs
 
-Henri 
-Noémie 
-Franck
+- Henri 
+- Noémie 
+- Franck
 
 # Installation
 
